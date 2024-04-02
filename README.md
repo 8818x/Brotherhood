@@ -29,8 +29,8 @@ Brotherhood Game is a Java-based 2D fighting game where players control characte
 - After the game ends, choose to retry or exit the game.
 
 ## Credits
-This game was developed by 8818x(me).\
-Graphics reference in this project: https://youtu.be/vyqbNFMDRGQ
+- This game was developed by 8818x(me).
+- Graphics reference in this project: https://youtu.be/vyqbNFMDRGQ
 
 ## Generate
 Generate description by ChatGPT.
